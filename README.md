@@ -1,11 +1,29 @@
-<div align="center">
+# APEX ZYM — Elite Fitness & Performance Center
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+> **BUILD YOUR STRONGEST SELF.**  
+> Discipline today. Dominate tomorrow.
 
-  <h1>Built with AI Studio</h2>
+APEX ZYM is a modern, dark, cinematic fitness gym web application built with React, TypeScript, and Tailwind CSS.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features
+- **Cinematic Experience**: Dark aesthetic with athletic crimson glow accents and micro-interactions.
+- **Dynamic Curriculum**: Protocols for Strength, Conditioning, and 1-on-1 Personal Training.
+- **Interactive Memberships**: Centralized pricing tiers (Basic, Pro, Elite) with monthly/annual toggle and athlete digital pass generator.
+- **Athletic Bento Gallery**: High-contrast masonry gallery with category filters and fullscreen lightbox viewer.
+- **Coach Directory**: Detailed trainer dossiers and direct consultation scheduling.
+- **Direct Communication**: Integrated one-click WhatsApp, Instagram, Phone, and Email inquiry channels.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Local Development
+```bash
+# Install dependencies
+npm install
 
-</div>
+# Start local development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## Deployment
+Automated deployment to GitHub Pages via GitHub Actions is pre-configured in `.github/workflows/deploy.yml`.

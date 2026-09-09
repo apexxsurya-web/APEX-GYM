@@ -1,0 +1,8 @@
+{
+  "name": "APEX ZYM",
+  "description": "Premium, high-end modern fitness gym and athletic performance center. Build your strongest self.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
